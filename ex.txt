@@ -1,0 +1,4 @@
+1. vue create pj
+2. cd pj
+3. vue add electron-builder
+4. npm run electron:serve
